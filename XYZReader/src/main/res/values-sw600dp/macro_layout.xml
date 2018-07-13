@@ -9,4 +9,6 @@
     <dimen name="detail_metabar_title_bottom_padding">8dp</dimen>
     <dimen name="detail_body_bottom_margin">96dp</dimen>
     <dimen name="detail_body_top_margin">20dp</dimen>
+    <dimen name="detail_image_height">500dp</dimen>
+
 </resources>
